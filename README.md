@@ -15,3 +15,13 @@ A real-time device tracking application built with **Node.js**, **Express**, and
 - **Backend**: Node.js, Express
 - **Real-time Communication**: Socket.IO
 - **Frontend**: HTML, CSS, JavaScript
+
+## Live Project
+[Live Demo](https://realtime-device-tracking-gi3u.onrender.com/)  
+
+
+## Getting Started
+
+### Prerequisites
+- [Node.js](https://nodejs.org/) installed on your system
+- A modern web browser
