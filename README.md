@@ -2,6 +2,9 @@
 
 A real-time device tracking application built with **Node.js**, **Express**, and **Socket.IO**. This project allows tracking devices in real-time and visualizing their location updates through a web interface.
 
+## Live Project
+[Live Demo](https://realtime-device-tracking-gi3u.onrender.com/)  
+
 ## Features
 
 - Real-time device tracking using WebSocket communication (Socket.IO)
@@ -15,10 +18,6 @@ A real-time device tracking application built with **Node.js**, **Express**, and
 - **Backend**: Node.js, Express
 - **Real-time Communication**: Socket.IO
 - **Frontend**: HTML, CSS, JavaScript
-
-## Live Project
-[Live Demo](https://realtime-device-tracking-gi3u.onrender.com/)  
-
 
 ## Getting Started
 
